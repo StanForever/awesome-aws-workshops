@@ -129,6 +129,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Kubernetes the AWSome Way](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 - [Mythical Mysfits: A tale of love, loss, and cuddles](https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop)
 - [Using Spot Instances with EKS](https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks.html)
+- [Amazon EKS Terraform Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/afee4679-89af-408b-8108-44f5b1065cc7/en-US)
 
 ## Databases
 
