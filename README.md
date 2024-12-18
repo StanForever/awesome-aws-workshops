@@ -146,6 +146,11 @@ to run their containers on AWS because of our security, reliability, and scalabi
 - [Rancher on AWS Workshop](https://catalog.workshops.aws/rancher/en-US)
 - [Modernize with AWS App2Container Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/2c1e5f50-0ebe-4c02-a957-8a71ba1e8c89/en-US)
 
+## Cost Optimization
+_Manage your cloud cost optimize your workloads across the different AWS services._
+
+- [CFM Technical Implementation Playbooks (CFM TIPs)](https://catalog.us-east-1.prod.workshops.aws/workshops/86e30fc2-daf4-4708-8720-347e2b312075/en-US)
+
 ## Databases
 
 _Choose from 15 purpose-built database engines including relational,
