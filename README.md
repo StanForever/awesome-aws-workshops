@@ -150,6 +150,7 @@ to run their containers on AWS because of our security, reliability, and scalabi
 _Manage your cloud cost optimize your workloads across the different AWS services._
 
 - [CFM Technical Implementation Playbooks (CFM TIPs)](https://catalog.us-east-1.prod.workshops.aws/workshops/86e30fc2-daf4-4708-8720-347e2b312075/en-US)
+- [Cloud Intelligence Dashboards Framework](https://catalog.workshops.aws/awscid/en-US)
 
 ## Databases
 
