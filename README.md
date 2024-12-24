@@ -408,6 +408,8 @@ your focus to scaling and innovating your business._
 - [Welcome to the flAWS 2 challenge!](http://flaws2.cloud/)
 - [Welcome to the flAWS challenge](http://flaws.cloud/)
 - [Scaling your encryption at rest capabilities with AWS KMS](https://catalog.us-east-1.prod.workshops.aws/workshops/05f16f1a-0bbf-45a7-a304-4fcd7fca3d1f/en-US)
+- [Automated Forensics Orchestrator for Amazon EC2](https://catalog.us-east-1.prod.workshops.aws/workshops/2b9496ea-b30a-4dcf-926d-22fa148991d2/en-US)
+- [API Authorization with Amazon Cognito and Amazon Verified Permissions](https://catalog.us-east-1.prod.workshops.aws/workshops/68d0bcdb-6331-4da1-a795-85641a84c34b/en-US)
 
 ## Serverless
 
